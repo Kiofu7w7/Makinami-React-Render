@@ -1,0 +1,14 @@
+{
+    "persona" : [
+        {
+            "nombre:" : "Santiago",
+            "apellidos" : "Buitrago",
+            "email" : "plaga500@hotmail.com",
+            "password" : "patata1",
+            "telefono" : "+57 3006700461",
+            "fecha" : "02-02-2003",
+            "imageUrl" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1704907671/imagen_2024-01-10_122749469_d6wrp6.png",
+            "color" : "#FFFFFF"
+        }
+    ]
+}
